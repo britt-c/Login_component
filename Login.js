@@ -10,8 +10,9 @@ const Login = (props) => {
 				<label for="password">Password</label>
 				<input type="password" id="pwd" name="pwd" />
 				<br />
-				<input type="button">
+				<input type="button" value="Sign in">
 			</form>
 		</div>
 	)}
+
 export default Login
